@@ -1,7 +1,12 @@
 {
-  "app.header" : "Modifiez <code>{fileName}</code> et enregistrez-les pour recharger" ,
-  "app.content" : "Apprendre React" ,
-  "app.channel.plug": "Tutoriel présenté par Lokalise",
-  "app.plural": "{amount, plural, =0 {no languages} one {# one language} few {# several languages} many {# lots of languages} other {# wrong fromat}}"
-
+  "app.header": "Internalisation",
+  "app.updates.header": "Nouveau dans l'application",
+  "app.update_1.detail": "Nous commençons la phase de test pour la consultation vidéo de vos clients avec l’outil Reach sur l’ordinateur portable et l’iPad",
+  "app.update_1.title": "Phase pilote : consultation vidéo avec vos clients",
+  "app.update_2.detail": "Afin de vous fournir plus de détails sur les portées de taxi, des textes d’information supplémentaires ont été ajoutés à l’équipement de taxi. Vous pouvez les trouver dans le configurateur en cliquant sur l’i-bouton pour l’équipement respectif.",
+  "app.update_2.title": "Textes d’information supplémentaires pour les portées de taxi",
+  "app.update_3.detail": "L’interface entre OTR et GO pour les grands représentants a été optimisée. Des ajustements ont été apportés à l’envoi du rôle. Ce rôle est maintenant attribué à l’agent principal.",
+  "app.update_3.title": "Optimisation de l’interface GO pour les principaux représentants",
+  "app.update_4.detail": "Afin d’améliorer la clarté, un résumé de l’équipement facultatif sélectionné est maintenant disponible dans le configurateur. Pour afficher et masquer la liste supplémentaire, veuillez cliquer sur le bouton 'Résumé'.",
+  "app.update_4.title": "Vue d’ensemble de la configuration"
 }

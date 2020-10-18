@@ -1,6 +1,16 @@
 {
-  "app.header" : "Edit<code>{fileName}</code> js and save to reload" ,
-  "app.content" : "Learn React" ,
-  "app.channel.plug": "Tutorial brought to you by {blogName}",
-  "app.plural": "{amount, plural, =0 {no languages} one {# one language} few {# several languages} many {# lots of languages} other {# wrong fromat}}"
+  "app.header": "Internalization",
+  "app.updates.header": "New in Application",
+  "app.update_1.title": "Pilot phase: video consultation with your customers",
+  "app.update_1.date": "12.10.2020",
+  "app.update_1.detail": "We start the test phase for the video consultation of your customers with the tool Reach on the laptop and iPad",
+  "app.update_2.title": "Additional information texts for taxi scopes",
+  "app.update_2.date": "13.10.2020",
+  "app.update_2.detail": "In order to provide you with more details on the taxi scopes, additional information texts have been added to the taxi equipment. You can find these in the configurator by clicking the i-button for the respective equipment.",
+  "app.update_3.title": "Optimization of the GO interface for the major representatives",
+  "app.update_3.date": "14.10.2020",
+  "app.update_3.detail": "The interface between OTR and GO for the large representatives has been optimized. Adjustments have been made to the sending of the role. This role is now assigned to the major agent.",
+  "app.update_4.title": "Configuration overview",
+  "app.update_4.date": "16/10/2020",
+  "app.update_4.detail": "In order to improve clarity, a summary of the selected optional equipment is now available in the configurator. To show and hide the supplementary list, please click the 'Summary' button."
 }

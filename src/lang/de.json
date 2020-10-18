@@ -1,6 +1,16 @@
 {
-    "app.header": "Bearbeiten Sie <code> {fileName} <\/code> js und speichern Sie es zum erneuten Laden",
-    "app.content": "Lernen Sie zu reagieren",
-    "app.channel.plug": "Tutorial von {blogName}",
-    "app.plural": "{amount, plural, =0 { keine Sprachen } one {# eine Sprache } few {# mehrere Sprachen } many {# viele Sprachen } other {# falsch fromat }}"
+  "app.header": "Internalisierung",
+  "app.updates.header": "Neu in der Anwendung",
+  "app.update_1.date": "12/10/2020",
+  "app.update_1.detail": "Wir starten die Testphase für die Videoberatung Ihrer Kunden mit dem Tool Reach auf Laptop und iPad",
+  "app.update_1.title": "Pilotphase: Videoberatung mit Ihren Kunden",
+  "app.update_2.date": "13/10/2020",
+  "app.update_2.detail": "Um Ihnen weitere Informationen zu den Taxibereichen zu geben, wurden zusätzliche Informationstexte zur Taxiausrüstung hinzugefügt. Diese finden Sie im Konfigurator, indem Sie auf den i-Button für das jeweilige Gerät klicken.",
+  "app.update_2.title": "Zusätzliche Informationstexte für Taxibereiche",
+  "app.update_3.date": "14/10/2020",
+  "app.update_3.detail": "Die Schnittstelle zwischen OTR und GO für die großen Vertreter wurde optimiert. Es wurden Anpassungen an der Entsendung der Rolle vorgenommen. Diese Rolle wird nun dem Hauptagenten zugewiesen.",
+  "app.update_3.title": "Optimierung der GO-Schnittstelle für die wichtigsten Vertreter",
+  "app.update_4.date": "16/10/2020",
+  "app.update_4.detail": "Um die Übersichtlichkeit zu verbessern, ist nun eine Zusammenfassung der ausgewählten optionalen Geräte im Konfigurator verfügbar. Um die Zusatzliste ein- und auszublenden, klicken Sie bitte auf die Schaltfläche \"Zusammenfassung\".",
+  "app.update_4.title": "Konfigurationsübersicht"
 }

@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { IntlProvider } from "react-intl";
 import French from "../lang/fr.json";
-import Arabic from "../lang/ar.json";
 import English from "../lang/en.json";
 import German from "../lang/de.json";
 
@@ -12,8 +11,7 @@ const local = navigator.language.split(/[-_]/)[0];
 const supportedMessages = {
   fr: French,
   en: English,
-  ar: Arabic,
-  de: German
+  de: German,
 };
 const language = navigator.language.split(/[-_]/)[0];
 
@@ -25,7 +23,7 @@ const Wrapper = (props) => {
   function selectLanguage(e) {
     const newLocale = e.target.value;
     setLocale(newLocale);
-    setMessages(supportedMessages[newLocale])
+    setMessages(supportedMessages[newLocale]);
   }
 
   return (
