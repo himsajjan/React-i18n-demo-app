@@ -1,0 +1,6 @@
+{
+    "app.header": "Bearbeiten Sie <code> {fileName} <\/code> js und speichern Sie es zum erneuten Laden",
+    "app.content": "Lernen Sie zu reagieren",
+    "app.channel.plug": "Tutorial von {blogName}",
+    "app.plural": "{amount, plural, =0 { keine Sprachen } one {# eine Sprache } few {# mehrere Sprachen } many {# viele Sprachen } other {# falsch fromat }}"
+}
